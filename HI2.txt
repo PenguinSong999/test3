@@ -1,3 +1,8 @@
 HI GIT
+<<<<<<< HEAD
 hahhahha
 99999999
+=======
+hi git
+hi git
+>>>>>>> c3f910dcc8b69241fd0449b375610c03ad01cc64
